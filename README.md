@@ -129,9 +129,10 @@ indices to all tables — reducing query execution time significantly.
   4. Run `data_preparation.ipynb` first to set up the database
   5. Run `indices.ipynb` to optimize performance
   6. Run `analysis.ipynb` for the full analysis
-  ```
 
----
+
+__________________
+
 
 ## 👤 Author
 
@@ -140,6 +141,7 @@ Abdelhak Morhlia
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhak-morhlia-41366a396/)
 _____________________________
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
